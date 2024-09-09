@@ -1,2 +1,0 @@
-Hola Mundo, esto es una prueba de interacción para un código Python. 
- Segunda parte de la prueba de interacción.
